@@ -1,0 +1,37 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: rgb(190,25,25);
+    background: linear-gradient(0deg, rgba(190,25,25,1) 22%, rgba(241,230,224,1) 55%, rgba(255,255,255,1) 100%);
+}
+
+
+.main h1 {
+    color: black;
+    font-family: 'Glass Antiqua', cursive;
+    font-size: 42px;
+    text-align: center;
+}
+
+.main p {
+    color: black;
+    font-family: 'Glass Antiqua', cursive;
+    font-size: 24px;
+    text-align: center;
+    height: 250px;
+}
+
+
+.left {
+    float:left;
+    width:40%;
+    padding: 5%;
+}
+
+.right {
+    float:right;
+    width:40%;
+    padding: 5%;
+}
